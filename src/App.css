@@ -1,0 +1,22 @@
+.quote h1{
+  color: white;
+}
+.quote{
+  border: 2px solid brown;
+  border-radius: 0.5em;
+  color: #333;
+  margin-bottom: 1em;
+  background-color: rgb(52, 63, 59);
+  color: wheat;
+  width: 60%;
+}
+.App{
+margin: auto;
+}
+
+/* @media (max-width: 500px) {
+  .quote{
+
+  }
+} */
+  
